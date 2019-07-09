@@ -1,1 +1,2 @@
 print('Yok')
+print('Benz')
