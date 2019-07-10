@@ -1,1 +1,2 @@
 print('Vespa')
+print('Mustang')
